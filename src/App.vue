@@ -48,7 +48,7 @@
       
       <svg width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
       <path d="M15 5L5 15M5 5L15 15" stroke="#757575" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-      </ svg>
+      </svg>
 
       </ button>
       </ li>
@@ -73,12 +73,12 @@
       
       <svg width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
       <path d="M15 5L5 15M5 5L15 15" stroke="#757575" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-      </ svg>
+      </svg>
 
       </ button>
       </ li>
 
-      <div class="todo__empty-message" data-js-todo-item-empty-message></div>
+      <div class="todo__empty-message" data-js-todo-item-empty-message></ div>
 
     </ ul>
 
