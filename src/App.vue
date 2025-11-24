@@ -3,7 +3,7 @@
     <h1 class="todo__title"> To Do List</ h1>
     
     <form class="todo__form" data-js-todo-new-task-form >
-      <div class="tofo__field field">
+      <div class="todo__field field">
         <label class="todo__label" for="new-task">New task title</ label>
         <input class="field__input" id="new-task" plaseholder=" " autocomplete="off" data-js-todo-new-task-input />
       </div>
@@ -11,7 +11,7 @@
     </ form>
 
     <form class="todo__form" data-js-todo-search-task-form >
-      <div class="tofo__field field">
+      <div class="todo__field field">
         <label class="todo__label" for="search-task">Search task</ label>
         <input class="field__input" id="search-task" plaseholder=" " autocomplete="off" type="search" data-js-todo-search-task-input/>
       </div>
