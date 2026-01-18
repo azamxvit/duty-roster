@@ -1,5 +1,64 @@
-# Vue 3 + Vite
+# Vue Todo App
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+Todo application built with Vue 3 and Vite.
 
-Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://vuejs.org/guide/scaling-up/tooling.html#ide-support).
+---
+
+## Stack
+
+- Vue 3
+- Vite
+- JavaScript
+- localStorage
+
+---
+
+## Features
+
+- Create todos
+- Edit todos
+- Delete todos
+- Toggle completed state
+- Persist data in localStorage
+
+---
+
+## Installation
+
+```bash
+git clone https://github.com/azamxvit/vue-todo-app.git
+cd vue-todo-app
+pnpm install
+pnpm dev
+
+---
+
+## Usage
+
+Open in browser:
+
+http://localhost:5173
+
+## Project Structure
+
+src/
+├─ components/
+├─ store/
+├─ styles/
+├─ utils/
+├─ App.vue
+└─ main.js
+
+## Author
+
+Azamat Omirtay  
+https://github.com/azamxvit
+
+---
+
+## Notes
+
+- Enterprise-style English comments
+- Badges support
+- NPM package format
+- Monorepo-style README structure
